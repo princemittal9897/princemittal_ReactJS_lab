@@ -1,4 +1,4 @@
-# AmanRaj_ReactJS_Lab
+# princemittal_ReactJS_Lab
 Expense Tracker - A React JS Application
 
 **Problem Statement**
